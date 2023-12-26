@@ -8,8 +8,8 @@
 
 body {
     background-color: #FFF;
-    height: 6666px;
     font-family: 'Roboto', sans-serif;
+    height: 6666px;
 
 }
 
@@ -20,8 +20,6 @@ header {
     top: 0;
     z-index: 9;
     padding: 10px 0;
-
-
 }
 
 .container {
@@ -33,7 +31,6 @@ header {
 }
 
 .row {
-
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
